@@ -87,6 +87,17 @@ Documents   Library     Music       Public
 ~~~
 {: .output}
 
+> ## Command Names
+> Unix commands are often abbreviations or acronyms for the functions they perform
+> or the name of the program they invoke.
+> Some Common Examples:
+> - **ls** refers to *listing* and lists what is in the directory you are referencing
+> - **pwd** refers to *print working directory* and outputs the path to the current directory you are in
+> - **cd** refers to *change directory* and changes your location to the directory you specify
+> - **cat** refers to *concatenate* and does several things, but one is to splice files together
+> - **rm** refers to *remove* and deletes a file
+> - **cp** refers to *copy* and copies a file from one directory to another
+
 > ## Command not found
 > If the shell can't find a program whose name is the command you typed, it
 > will print an error message such as:
