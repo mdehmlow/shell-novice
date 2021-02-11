@@ -21,7 +21,7 @@ keypoints:
 In the same way that many of us now use 'Google' as a
 verb meaning 'to find', Unix programmers often use the
 word 'grep'.
-'grep' is a contraction of 'global/regular expression/print',
+'grep' is an acronym for 'global/regular expression/print',
 a common sequence of operations in early Unix text editors.
 It is also the name of a very useful command-line program.
 
